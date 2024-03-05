@@ -20,3 +20,51 @@ Here are the screenshots :
 
 
 
+## Installation
+
+Follow these steps to get the Cloud Dashboard up and running on your local machine:
+
+### Prerequisites
+
+- Node.js and npm should be installed on your system. You can download and install them from [here](https://nodejs.org/).
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/shalabhtayal/Cloud-Dashboard.git
+```
+
+### Navigate to the Directory
+
+```bash
+cd Cloud-Dashboard
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Configure Environment Variables
+
+1. Create a `.env` file in the root directory.
+2. Define the required environment variables in the `.env` file. You can use `.env.example` as a template.
+
+### Start the Application
+
+```bash
+npm start
+```
+
+The application should now be running on `http://localhost:5000`.
+
+### Accessing the Dashboard
+
+Open your web browser and navigate to [http://localhost:5000](http://localhost:5000) to access the Cloud Dashboard.
+```
+
+The `start` script in the `package.json` file has been configured to run the application on port 5000. Adjust the port number as necessary based on your requirements.
+```
+
+This Markdown code can be directly copied and pasted into the README.md file of your Cloud-Dashboard repository.
