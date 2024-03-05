@@ -66,5 +66,3 @@ Open your web browser and navigate to [http://localhost:5000](http://localhost:5
 
 The `start` script in the `package.json` file has been configured to run the application on port 5000. Adjust the port number as necessary based on your requirements.
 ```
-
-This Markdown code can be directly copied and pasted into the README.md file of your Cloud-Dashboard repository.
