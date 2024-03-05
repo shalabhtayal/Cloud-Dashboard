@@ -54,7 +54,7 @@ npm install
 ### Start the Application
 
 ```bash
-npm start
+npm run start
 ```
 
 The application should now be running on `http://localhost:5000`.
