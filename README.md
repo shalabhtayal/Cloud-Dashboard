@@ -16,7 +16,7 @@ Here are the screenshots :
 
 ![calender](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/calender.png?raw=true)
 
-![geography-chart](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/geography-chart.png?raw=true)
+![geography-chart](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/geography_chart.png?raw=true)
 
 
 
