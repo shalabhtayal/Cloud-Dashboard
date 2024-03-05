@@ -10,5 +10,13 @@ Cloud Dashboard is a ReactJS app which has following features :
 
 Here are the screenshots : 
 
+![dashboard](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/dashboard.png?raw=true)
+
+![team](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/team.png?raw=true)
+
+![calender](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/calender.png?raw=true)
+
+![geography-chart](https://github.com/shalabhtayal/Cloud-Dashboard/blob/main/screenshots/geography-chart.png?raw=true)
+
 
 
